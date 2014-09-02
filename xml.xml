@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<manifest>
+	<items>
+		<item>
+			<title>Índice da primeira página</title>
+			<url>page_0.png</url>
+		</item>
+	</items>
+	<title>Curso de Feedback</title>
+	<xmlVersion>pdf1.0</xmlVersion>
+	<type>pdf</type>
+</manifest>
